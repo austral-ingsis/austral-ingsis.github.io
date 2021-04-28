@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ingenieria de Sistemas
+# Ingeniería de Sistemas
 
 ## Trabajos Prácticos:
 
