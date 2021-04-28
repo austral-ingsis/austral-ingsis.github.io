@@ -4,11 +4,16 @@ layout: default
 
 # Ingenieria de Sistemas
 
-## Presentaciones:
-
 ## Trabajos Prácticos:
 
+- [Printscript Test Compatibility Kit (TCK)](https://github.com/austral-ingsis/printscript-tck)
+
 ## Repositorios:
+
+- [Gradle básico](https://github.com/austral-ingsis/gradle-basic)
+- [CD con Github Actions + Gradle](https://github.com/austral-ingsis/library)
+- [Grade + Git Hooks](https://github.com/austral-ingsis/git-hooks)
+- [Uso de variables de ambiente en Github Actions](https://github.com/austral-ingsis/github-actions-env-example)
 
 ---
 
