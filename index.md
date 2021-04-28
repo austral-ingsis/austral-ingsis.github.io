@@ -23,6 +23,7 @@ layout: default
 
 ## Cátedra:
 
-* [Javier Isoldi](//github.com/jisoldi)
-* [Agustín Bettati](//github.com/AgustinBettati)
-* [Tomás Fernández](//github.com/tomsfernandez)
+* [Javier Isoldi](https://github.com/jisoldi)
+* [Agustín Bettati](https://github.com/AgustinBettati)
+* [Tomás Fernández](https://github.com/tomsfernandez)
+* Ayudante: [Rodrigo Pazos](https://github.com/rpazos98)
