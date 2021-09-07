@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# Ingeniería de Sistemas
+# Diseño de Sistemas
 
 ## Trabajos Prácticos:
 <!--
 - [Printscript Test Compatibility Kit (TCK)](https://github.com/austral-ingsis/printscript-tck)
 -->
 ## Repositorios:
+- [Starter del Ajedrez](https://github.com/austral-ingsis/chess-game-seed)
 <!--
 - [Gradle básico](https://github.com/austral-ingsis/gradle-basic)
 - [CD con Github Actions + Gradle](https://github.com/austral-ingsis/library)
