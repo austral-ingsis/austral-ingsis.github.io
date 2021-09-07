@@ -10,6 +10,7 @@ layout: default
 -->
 ## Repositorios:
 - [Starter del Ajedrez](https://github.com/austral-ingsis/chess-game-seed)
+
 <!--
 - [Gradle básico](https://github.com/austral-ingsis/gradle-basic)
 - [CD con Github Actions + Gradle](https://github.com/austral-ingsis/library)
