@@ -2,14 +2,15 @@
 layout: default
 ---
 
-# Diseño de Sistemas
+# Ingenieria de Sistemas 2022
 
-## Trabajos Prácticos:
-<!--
-- [Printscript Test Compatibility Kit (TCK)](https://github.com/austral-ingsis/printscript-tck)
--->
-## Repositorios:
-- [Starter del Ajedrez](https://github.com/austral-ingsis/chess-game-seed)
+Blog de la cursada Ingenieria de Sistemas 2022. A medida que pasen las clases, vamos a referenciar los proyectos/ejercicios que vayamos haciendo acá
+
+## Trabajos Prácticos
+
+
+## Repositorios
+
 ---
 
 ## Facultad de Ingeniería, Universidad Austral
@@ -19,6 +20,5 @@ layout: default
 ## Cátedra:
 
 * [Javier Isoldi](https://github.com/jisoldi)
-* [Agustín Bettati](https://github.com/AgustinBettati)
 * [Tomás Fernández](https://github.com/tomsfernandez)
-<!-- * Ayudante: [Rodrigo Pazos](https://github.com/rpazos98) -->
+* [Rodrigo Pazos](https://github.com/rpazos98)
