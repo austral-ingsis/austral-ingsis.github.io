@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Ingenieria de Sistemas 2022
+# Ingeniería de Sistemas 2022
 
-Blog de la cursada Ingenieria de Sistemas 2022. A medida que pasen las clases, vamos a referenciar los proyectos/ejercicios que vayamos haciendo acá
+Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, vamos a referenciar los proyectos/ejercicios que vayamos haciendo acá.
 
 ## Trabajos Prácticos
 
