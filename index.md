@@ -9,7 +9,12 @@ Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, 
 
 ## Repositorios
 
+- Setup Gradle con subprojects y build plugins: https://github.com/austral-ingsis/gradle-basic
+- PrintScript Parser Common Module: https://github.com/austral-ingsis/printscript-parser-common
 ---
+
+## Artefactos:
+- PrintScript Parser Common Artifact: https://github.com/austral-ingsis/printscript-parser-common/packages/1291176
 
 ## Facultad de Ingeniería, Universidad Austral
 
