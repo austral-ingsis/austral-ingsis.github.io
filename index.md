@@ -12,6 +12,7 @@ Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, 
 - [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
 - [PrintScript Parser Common Module](https://github.com/austral-ingsis/printscript-parser-common)
 - [Ejemplo Git Hooks](https://github.com/austral-ingsis/git-hooks)
+- [Printscript TCK](https://github.com/austral-ingsis/printscript-tck)
 
 ---
 
