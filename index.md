@@ -10,22 +10,19 @@ Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, 
 ## Repositorios
 
 - [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
-- [PrintScript Parser Common Module](https://github.com/austral-ingsis/printscript-parser-common)
-- [Ejemplo Git Hooks](https://github.com/austral-ingsis/git-hooks)
-- [Printscript TCK](https://github.com/austral-ingsis/printscript-tck)
 
 ---
 
-## Artefactos:
-- [PrintScript Parser Common Artifact](https://github.com/austral-ingsis/printscript-parser-common/packages/1291176)
+## Artefactos
 
 ## Facultad de Ingeniería, Universidad Austral
 
 [Github de la materia](https://github.com/austral-ingsis)
 
-## Cátedra:
+## Cátedra
 
 * [Javier Isoldi](https://github.com/jisoldi)
 * [Tomás Fernández](https://github.com/tomsfernandez)
-* [Rodrigo Pazos](https://github.com/rpazos98)
-* [Matias Miodosky](http://github.com/matimiodosky)
+
+## Ayudantes
+* [Tomas Berretta](https://github.com/tomasberretta)
