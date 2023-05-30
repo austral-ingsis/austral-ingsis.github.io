@@ -17,6 +17,9 @@ Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, 
 - [Spring Docker Compose Example](https://github.com/austral-ingsis/spring-docker-compose-example)
 - [Docker Image Publish with Github Packages](https://github.com/austral-ingsis/docker-packages)
 - [Demo de Redis Streams](https://github.com/austral-ingsis/class-redis-streams)
+- [UI Snippet Searcher](https://github.com/austral-ingsis/snippet-searcher-ui)
+- [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
+
 
 ---
 
