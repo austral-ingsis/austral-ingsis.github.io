@@ -19,6 +19,7 @@ Blog de la cursada Ingeniería de Sistemas 2022. A medida que pasen las clases, 
 - [Demo de Redis Streams](https://github.com/austral-ingsis/class-redis-streams)
 - [UI Snippet Searcher](https://github.com/austral-ingsis/snippet-searcher-ui)
 - [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
+- [Spring Boot Datadog](https://github.com/austral-ingsis/spring-boot-datadog) 
 
 
 ---
