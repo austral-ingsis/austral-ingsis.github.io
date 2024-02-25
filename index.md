@@ -41,4 +41,4 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 * [Tomas Berretta](https://github.com/tomasberretta)
 
 ## Ayudantes
-* Ignacio Ferrari
+* [Ignacio Ferrari](https://github.com/nachoferra1894)
