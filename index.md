@@ -23,13 +23,12 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 - [UI Snippet Searcher](https://github.com/austral-ingsis/printscript-ui)
 - [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
 
-
 ---
 
 ## Artefactos
  
-- [Redis Streams Helper Library](https://github.com/austral-ingsis/class-redis-streams/packages/1863591)[Source](https://github.com/austral-ingsis/class-redis-streams/tree/main/lib)
-- [Asset Service](https://github.com/austral-ingsis/asset-service/pkgs/container/snippet-asset-service)[Source](https://github.com/austral-ingsis/asset-service)
+- [Redis Streams Helper Library](https://github.com/austral-ingsis/class-redis-streams/packages/1863591) - [Source](https://github.com/austral-ingsis/class-redis-streams/tree/main/lib)
+- [Asset Service](https://github.com/austral-ingsis/asset-service/pkgs/container/snippet-asset-service) - [Source](https://github.com/austral-ingsis/asset-service)
 
 ## Facultad de Ingeniería, Universidad Austral
 
