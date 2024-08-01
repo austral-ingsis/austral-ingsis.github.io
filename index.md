@@ -8,7 +8,7 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 
 
 ## Repositorios
-
+<!--
 - [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
 - [Formatting Example](https://github.com/austral-ingsis/formatting-example)
 - [Git Hooks](https://github.com/austral-ingsis/git-hooks)
@@ -22,14 +22,14 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 - [Demo de Redis Streams](https://github.com/austral-ingsis/class-redis-streams)
 - [UI Snippet Searcher](https://github.com/austral-ingsis/printscript-ui)
 - [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
-
+-->
 ---
-
+<!--
 ## Artefactos
  
 - [Redis Streams Helper Library](https://github.com/austral-ingsis/class-redis-streams/packages/1863591) - [Source](https://github.com/austral-ingsis/class-redis-streams/tree/main/lib)
 - [Asset Service](https://github.com/austral-ingsis/asset-service/pkgs/container/snippet-asset-service) - [Source](https://github.com/austral-ingsis/asset-service)
-
+-->
 ## Facultad de Ingeniería, Universidad Austral
 
 [Github de la materia](https://github.com/austral-ingsis)
