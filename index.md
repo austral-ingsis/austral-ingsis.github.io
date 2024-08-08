@@ -45,3 +45,4 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 
 ## Ayudantes
 * [Ignacio Ferrari](https://github.com/nachoferra1894)
+* [Santiago Encina](https://github.com/sencina)
