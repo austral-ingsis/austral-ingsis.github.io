@@ -23,7 +23,9 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 - [UI Snippet Searcher](https://github.com/austral-ingsis/printscript-ui)
 - [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
 -->
+
 ---
+
 <!--
 ## Artefactos
  
