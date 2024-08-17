@@ -4,9 +4,6 @@ layout: default
 
 Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, vamos a referenciar los proyectos/ejercicios que vayamos haciendo acá.
 
-## Trabajos Prácticos
-
-
 ## Repositorios
 
 - [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
