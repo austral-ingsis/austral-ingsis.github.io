@@ -15,6 +15,8 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 - [Spring Boot Examples](https://github.com/austral-ingsis/spring-boot-starter)
 - [Spring Docker Compose Example](https://github.com/austral-ingsis/spring-docker-compose-example)
 - [Docker Image Publish with Github Packages](https://github.com/austral-ingsis/docker-packages)
+- [Auth0 Example](https://github.com/austral-ingsis/auth-integration)
+- [Asset Service Source](https://github.com/austral-ingsis/asset-service)
 
 <!--
 
@@ -29,6 +31,7 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 ---
 
 ## Artefactos
+- [Asset Service Docker Image](https://github.com/austral-ingsis/asset-service/pkgs/container/snippet-asset-service)
 <!-- 
 - [Redis Streams Helper Library](https://github.com/austral-ingsis/class-redis-streams/packages/1863591):
     - [Source](https://github.com/austral-ingsis/class-redis-streams/tree/main/lib)
