@@ -17,6 +17,7 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 - [Docker Image Publish with Github Packages](https://github.com/austral-ingsis/docker-packages)
 - [Auth0 Example](https://github.com/austral-ingsis/auth-integration)
 - [Asset Service Source](https://github.com/austral-ingsis/asset-service)
+- [Docker Build-Time Secrets Example](https://github.com/austral-ingsis/docker-build-secrets)
 
 <!--
 
@@ -32,9 +33,12 @@ Blog de la cursada Ingeniería de Sistemas 2024. A medida que pasen las clases, 
 
 ## Artefactos
 - [Asset Service Docker Image](https://github.com/austral-ingsis/asset-service/pkgs/container/snippet-asset-service)
+
 <!-- 
+
 - [Redis Streams Helper Library](https://github.com/austral-ingsis/class-redis-streams/packages/1863591):
     - [Source](https://github.com/austral-ingsis/class-redis-streams/tree/main/lib)
+
 -->
 
 ## Facultad de Ingeniería, Universidad Austral
