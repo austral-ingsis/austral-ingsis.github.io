@@ -8,6 +8,8 @@ Blog de la cursada Ingeniería de Sistemas 2025. A medida que pasen las clases, 
 
 ---
 
+- [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
+
 ## Artefactos
 
 ## Facultad de Ingeniería, Universidad Austral
