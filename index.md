@@ -11,6 +11,9 @@ Blog de la cursada Ingeniería de Sistemas 2025. A medida que pasen las clases, 
 - [Setup Gradle con subprojects y build plugins](https://github.com/austral-ingsis/gradle-basic)
 - [Formatting Example](https://github.com/austral-ingsis/formatting-example)
 - [Git Hooks](https://github.com/austral-ingsis/git-hooks)
+- [Github Actions Example](https://github.com/austral-ingsis/ci-cd-library)
+- [Github Actions Env Example](https://github.com/austral-ingsis/github-actions-env-example)
+- [PrintScript TCK](https://github.com/austral-ingsis/printscript-tck)
 
 ## Artefactos
 
