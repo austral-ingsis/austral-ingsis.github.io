@@ -14,6 +14,19 @@ Blog de la cursada Ingeniería de Sistemas 2025. A medida que pasen las clases, 
 - [Github Actions Example](https://github.com/austral-ingsis/ci-cd-library)
 - [Github Actions Env Example](https://github.com/austral-ingsis/github-actions-env-example)
 - [PrintScript TCK](https://github.com/austral-ingsis/printscript-tck)
+- [Spring Boot Examples](https://github.com/austral-ingsis/spring-boot-starter)
+- [Spring Docker Compose Example](https://github.com/austral-ingsis/spring-docker-compose-example)
+- [Docker Image Publish with Github Packages](https://github.com/austral-ingsis/docker-packages)
+- [Auth0 Example](https://github.com/austral-ingsis/auth-integration)
+
+<!--
+- [Asset Service Source](https://github.com/austral-ingsis/asset-service)
+- [Docker Build-Time Secrets Example](https://github.com/austral-ingsis/docker-build-secrets)
+- [Demo de Redis Streams](https://github.com/austral-ingsis/class-redis-streams)
+- [UI Snippet Searcher](https://github.com/austral-ingsis/printscript-ui)
+- [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
+- [Spring Boot Datadog](https://github.com/austral-ingsis/spring-boot-datadog) 
+-->
 
 ## Artefactos
 
