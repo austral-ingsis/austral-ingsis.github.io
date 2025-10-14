@@ -17,7 +17,7 @@ Blog de la cursada Ingeniería de Sistemas 2025. A medida que pasen las clases, 
 - [Spring Boot Examples](https://github.com/austral-ingsis/spring-boot-starter)
 - [Spring Docker Compose Example](https://github.com/austral-ingsis/spring-docker-compose-example)
 - [Docker Image Publish with Github Packages](https://github.com/austral-ingsis/docker-packages)
-- [Auth0 Example](https://github.com/austral-ingsis/auth-integration)
+- [Auth0 Example](https://github.com/austral-ingsis/auth0-integration)
 
 <!--
 - [Asset Service Source](https://github.com/austral-ingsis/asset-service)
