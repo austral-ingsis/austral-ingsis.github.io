@@ -23,7 +23,6 @@ Blog de la cursada Ingeniería de Sistemas 2025. A medida que pasen las clases, 
 - [Demo de Redis Streams](https://github.com/austral-ingsis/class-redis-streams)
 - [UI Snippet Searcher](https://github.com/austral-ingsis/printscript-ui)
 - [Demo Reverse Proxy](https://github.com/austral-ingsis/nginx-docker)
-- [Spring Boot Datadog](https://github.com/austral-ingsis/spring-boot-datadog) 
 
 ## Artefactos
 
